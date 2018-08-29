@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>FindThePrecious.com</title>
+  </head>
+  <body>   
+    <header>
+      <h1 id="title1">FindThePrecious.com</h1>   
+      <nav>   
+        <ul>
+          <li><a href="#fellows">Fellows</a></li>
+          <li><a href="#getmyreward">Get my reward</a></li>
+          <li><a href="#besthunters">Best hunters</a></li>
+          <li><a href="#thering">The Ring</a></li>
+          <li><a href="#jointhearmy">Join the army</a></li>
+          <li><a href="#contactus">Contact us</a></li>
+        </ul>     
+      </nav>
+      <h2 class="title2">Dangerous fellowship try to destroy the ring</h2>
+      <a href="https://placeholder.com"><img src="http://via.placeholder.com/140x140" alt="placeholder"></a>
+      <p> Orcs, Globlins,Balrogs, proctect your master Sauron!</p>
+    </header>  
+    
+    <section id="fellows">  
+      <h2 class="title2">Fellows wanted dead (or alive if you want to eat them later)</h2>
+        
+        <button type="button">Most wanted</button>
+        <button type="button">Most dangerous</button>
+        <button type="button">Already captured</button><br/>
+        <button type="button">Reward 1000 gold coins</button></br>
+        <a href="https://placeholder.com"><img src="http://via.placeholder.com/200x200" alt="placeholder"></a>
+        <b>The Wizard</b>
+        <p> Small description ... </p>
+        <a href="https://placeholder.com"><img src="http://via.placeholder.com/200x200.jpg&text=DEAD" alt="placeholder"></a>
+        <b>Hobbit #3</b>
+        <p> Small description ... </p>
+        <button type="button">Reward 250 gold coins</button></br>
+        <a href="https://placeholder.com"><img src="http://via.placeholder.com/200x200" alt="placeholder"></a>
+        <b>Yummy Dwarf</b>
+        <p> Small description ... </p>  
+    </section>
+    <hr>
+    <section id="getmyreward">
+        <h2 class="title2">I have captured one of them, how to get my reward ?</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor</p>
+        <a href="https://placeholder.com"><img src="http://via.placeholder.com/140x140" alt="placeholder"></a></br>
+        <button type="button">Contact us</button>
+    </section>
+    <hr>
+    <section id="besthunters">
+        <h2 class="title2">Best hunters</h2>
+        <div id="first">
+          <a href="https://placeholder.com"><img src="http://via.placeholder.com/70x70" alt="placeholder"></a>
+          <p><b>ElvesKiller22</b><p/>
+          <p>2 captures - <u>Profile</u></p>
+          <button type="button">Like 68k</button><br/>
+        </div><br/>
+        <div id="second">  
+          <a href="https://placeholder.com"><img src="http://via.placeholder.com/70x70" alt="placeholder"></a>
+          <p><b>Goblin45</b></p>
+          <p>1 capture - <u>Profile</u></p>
+          <button type="button">Like 68k</button><br/>  
+        </div>
+    </section>   
+    <hr>
+    <section id="thering">
+        <h2 class="title2">About the ring</h2>
+        <div id="ringcapa">
+          <h4>Ring Capabilities</h4>
+          <p>What can our master Sauron do with the ring ?</p>
+          <table border=2>
+            <thead>
+              <tr>
+                <th>Feature</th>
+                <th>Description</th>
+              </tr>     
+            </thead>
+            <tbody> 
+              <tr>
+                <td>Main</td>
+                <td>One ring to rules them all</td>
+              </tr>
+              <tr>
+                <td>Invisibility</td>
+                <td>You can't see me</td>
+              </tr>   
+              <tr>
+                <td>Power</td>
+                <td>Destroy the world</td>
+              </tr> 
+            </tbody>             
+          </table>
+        </div>
+        <div id="whythering">
+          <h4>Why the ring is awesome ?</h4>
+          <p>My preciooooussssssss ! Hrk Hrk, we want our preeciooouuuussssss !!</p>
+          <p><b>Gollum</b></p>
+          <a href="https://placeholder.com"><img src="http://via.placeholder.com/110x110" alt="placeholder"></a>
+        </div>
+    </section>
+    <hr>  
+    <section id="jointhearmy">
+      <h2 class="title">Join Mordor Army, we need you !</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor</p>
+      <a href="https://placeholder.com"><img src="http://via.placeholder.com/140x140" alt="placeholder"></a>
+      <button type="button">More info on SauronRulesThemAll.com</button>
+    </section>
+    <hr>
+    <section id="contactus">
+      <h2 class="title2">Contact us</h2>
+            <label for="mail"><br></label>
+            <input type="email" name="mail" id="mail" placeholder="@" required/>
+         </div>
+         <div>
+            <label for="home"><br></label>
+            <input type="text" name="home" id="home"  placeholder="Your address" required/>
+</div></br>
+         <div>
+           <select name="propo" size="1">
+             <option>I have seen one of them
+             <option>I found one of them already dead
+           </select>
+         <div>
+            <label for="message"><br></label>
+            <textarea rows="4" cols="50" id="message" name="message" placeholder="Your message" required></textarea>
+         </div>
+         <br/>
+         <div>
+            <button type="submit">Submit</button>
+         </div>
+         <hr/>
+      </section>
+    </section>
+    <footer>
+        <a href="http://www.FindThePrecious.com">About us</a>
+        <a href="http://www.FindThePrecious.com">Fellows</a>
+        <a href="http://www.FindThePrecious.com">Join our army</a>
+        <a href="http://www.FindThePrecious.com">FAQ</a>
+        <a href="http://www.FindThePrecious.com">Reward conditions</a>
+        <a href="http://www.FindThePrecious.com">Legal mentions</a>
+        <a href="http://www.Sauron4Ever.com">Sauron4Ever.com</a>
+        <a href="http://www.Twitter.com">Follow him also on twitter</a>
+    </footer>
+  </body>
+</html>
